@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "name": "mohammed",
+    "mail": "mohammed@xyz"
+  },
+  {
+    "id": 2,
+    "name": "upayathulla",
+    "mail": "upayathulla@xyz"
+  },
+  {
+    "id": 3,
+    "name": "mohammed upayathulla",
+    "mail": "mohammedupayathulla@xyz"
+  },
+  {
+    "id": 4,
+    "name": "JS",
+    "mail": "mohammed@xyz"
+  },
+  {
+    "id": 5,
+    "name": "React",
+    "mail": "mohammed@xyz"
+  },
+  {
+    "id": 6,
+    "name": "node",
+    "mail": "mohammed@xyz"
+  },
+  {
+    "id": 7,
+    "name": "express.js",
+    "mail": "mohammed@xyz"
+  },
+  {
+    "id": 8,
+    "name": "mohammed",
+    "mail": "mohammed@xyz"
+  },
+  {
+    "id": 9,
+    "name": "upayathulla",
+    "mail": "upayathulla@xyz"
+  },
+  {
+    "id": 10,
+    "name": "mohammed upayathulla",
+    "mail": "mohammedupayathulla@xyz"
+  },
+  {
+    "id": 11,
+    "name": "JS",
+    "mail": "mohammed@xyz"
+  },
+  {
+    "id": 12,
+    "name": "React",
+    "mail": "mohammed@xyz"
+  },
+  {
+    "id": 13,
+    "name": "node",
+    "mail": "mohammed@xyz"
+  },
+  {
+    "id": 14,
+    "name": "express.js",
+    "mail": "mohammed@xyz"
+  }
+]
